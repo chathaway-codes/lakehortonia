@@ -25,6 +25,7 @@ djangocms-teaser
 djangocms-video
 djangocms-link
 djangocms-snippet
+djangocms-text-ckeditor==2.4.3
 
 sorl-thumbnail==12.2
 git+https://github.com/chuck211991/djangocms-slideshow.git
